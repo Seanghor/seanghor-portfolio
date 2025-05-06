@@ -5,9 +5,6 @@ import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
 import { FontAwesomeIcon } from './config/fontawesome'
-
-
-
 // Import AOS styles and script
 import 'aos/dist/aos.css'
 import AOS from 'aos'
